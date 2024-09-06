@@ -3,7 +3,7 @@
 
 ### Descripción
 
-Minecraft 2D es una recreación básica del famoso juego Minecraft, pero en dos dimensiones, desarrollado en Python utilizando la librería Pygame. Este proyecto incluye dos modos de juego principales:
+Noncraft es una recreación básica del famoso juego Minecraft, pero en dos dimensiones, desarrollado en Python utilizando la librería Pygame. Este proyecto incluye dos modos de juego principales:
 
 - **Modo Supervivencia**: El jugador tiene una barra de vida con 10 corazones y puede recolectar, romper y colocar bloques en el mapa.
 - **Modo Creativo**: El jugador puede colocar y romper bloques sin restricciones.
