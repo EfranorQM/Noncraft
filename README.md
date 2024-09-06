@@ -32,7 +32,7 @@ Minecraft 2D es una recreación básica del famoso juego Minecraft, pero en dos 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/EfranorQM/minecraft-2d.git
+   git clone https://github.com/EfranorQM/minecraft-2d.git](https://github.com/EfranorQM/Noncraft.git
    cd minecraft-2d
    ```
 
@@ -66,11 +66,6 @@ minecraft-2d/
 └── README.md            # Descripción del proyecto
 ```
 
-### Posibles mejoras futuras
-
-- **Agregar enemigos**: Implementar lógica de enemigos en el modo Supervivencia.
-- **Multijugador local**: Permitir que dos jugadores jueguen juntos en el mismo mapa.
-- **Guardar y cargar**: Implementar un sistema de guardado y carga del mapa y el inventario.
 
 ### Licencia
 
