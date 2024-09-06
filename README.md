@@ -1,5 +1,5 @@
 
-# Minecraft 2D - Proyecto en Pygame
+# Noncraft - Proyecto en Pygame
 
 ### Descripción
 
@@ -33,7 +33,7 @@ Minecraft 2D es una recreación básica del famoso juego Minecraft, pero en dos 
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/EfranorQM/Noncraft.git
-   cd minecraft-2d
+   cd Noncraft
    ```
 
 2. Asegúrate de tener `Python` y `Pygame` instalados. Puedes instalar Pygame ejecutando:
@@ -49,7 +49,7 @@ Minecraft 2D es una recreación básica del famoso juego Minecraft, pero en dos 
 ### Estructura del Proyecto
 
 ```plaintext
-minecraft-2d/
+Noncraft/
 ├── config/
 │   └── config.py        # Archivo de configuración del juego (dimensiones, colores, etc.)
 ├── map/
