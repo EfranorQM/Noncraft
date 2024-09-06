@@ -32,7 +32,7 @@ Minecraft 2D es una recreación básica del famoso juego Minecraft, pero en dos 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/EfranorQM/minecraft-2d.git](https://github.com/EfranorQM/Noncraft.git
+   git clone https://github.com/EfranorQM/Noncraft.git
    cd minecraft-2d
    ```
 
